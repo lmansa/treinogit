@@ -1,13 +1,7 @@
 
 
-Meu primeiro sistema no GIT.
+Meu primeiro sistema no GIT. (alterado e modificado)
 
 Apenas adicionando outra linha no a rquivo para entender melhor como funciona o GIT
 
-alterando o git
-
-
-asd
-asd
-asd
-
+modificando o
